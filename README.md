@@ -1,2 +1,2 @@
 # AITU_Java
-Aitu study java
+REPO for OOP discipline in AITU
