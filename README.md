@@ -22,21 +22,17 @@ The project integrates the following learned topics:
 Student Class
 
  Fields:
- `String name` - student's full name
- `String id` - unique student identifier
- `String major` - academic major
- `double gpa` - current grade point average
- `int credits` - total earned credits 
+ String name - student's full name
+ String id - unique student identifier
+ String major - academic major
+ double gpa - current grade point average
+ int credits - total earned credits 
 
  Key Methods:
 Getters/Setters for all fields with validation
-
 addCredits(int c) - adds credits 
-
 updateGPA(double newGPA) - updates GPA with range validation 
-
 isHonors() - returns true if GPA ≥ 3.5
-
 toString() - returns string representation of student
 
 Course Class
